@@ -3,4 +3,4 @@ More in: [The NodeJS Master Class](https://pirple.thinkific.com/courses/the-node
 > No Frameworks, No NPM, No Dependencies
 
 ## Assignments
-[1] [Assignment #1](../blob/master/Assignment-1)
+[1] [Assignment #1](../master/Assignment-1)
