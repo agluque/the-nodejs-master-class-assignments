@@ -14,7 +14,7 @@ node index.js
 ```
 ### Configuration profiles
 
-The folling table shows the available profiles in order to run the application. You could switch to a different profile using the `NODE_ENV` variable (default `prod`):
+The following table shows the available profiles in order to run the application. You could switch to a different profile using the `NODE_ENV` variable (default `prod`):
 
 | Profile       | PORT            |
 | ------------- |:--------------- |
