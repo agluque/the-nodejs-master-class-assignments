@@ -1,3 +1,7 @@
+/**
+* Exports the correct application environment configuration.
+*
+*/
 const environments = {};
 
 environments.dev = {

@@ -1,3 +1,7 @@
+/**
+* Defines the application request handlers.
+*
+*/
 const hello = require('./hello');
 
 module.exports = {

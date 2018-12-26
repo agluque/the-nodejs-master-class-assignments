@@ -1,3 +1,7 @@
+/**
+* Hello application logic.
+* If the JSON payload is not correct, returns back a default message.
+*/
 module.exports = ({ payload }, callback) => {
   let jsonPayload;
   try {

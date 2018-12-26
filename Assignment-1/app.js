@@ -1,3 +1,9 @@
+/**
+* Handles the request parsing the requested URL,
+* parsing the body payload and returning back the response to the user after
+* routing to the proper request application handler.
+*
+*/
 const { parse } = require('url');
 const routes = require('./routes');
 const { StringDecoder } = require('string_decoder');

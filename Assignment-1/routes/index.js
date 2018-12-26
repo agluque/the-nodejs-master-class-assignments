@@ -1,3 +1,7 @@
+/**
+* Defines the application request routes.
+*
+*/
 const {
   hello,
   methodNotAllowed,
