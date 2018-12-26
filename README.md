@@ -1,2 +1,6 @@
-# the-nodejs-master-class-assignments
-The Nodej.s Master-Class Assignments
+# The NodeJS Master Class Homework Assignments
+More in: [The NodeJS Master Class](https://pirple.thinkific.com/courses/the-nodejs-master-class)
+> No Frameworks, No NPM, No Dependencies
+
+## Assignments
+[1] [Assignment #1](../blob/master/Assignment-1)
